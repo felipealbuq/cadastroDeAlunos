@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Felipe Albuquerque de Carvalho",
+      "email": "felipeqwe65@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "João",
+      "email": "joao@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Ráyra",
+      "email": "rayra@gmail.com",
+      "id": 3
+    }
+  ]
+}
