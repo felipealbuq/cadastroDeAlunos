@@ -1,19 +1,14 @@
 {
   "users": [
     {
-      "name": "Felipe Albuquerque de Carvalho",
-      "email": "felipeqwe65@gmail.com",
+      "name": "Felipe Albuquerque",
+      "email": "felipe65@gmail.com",
       "id": 1
     },
     {
-      "name": "João",
-      "email": "joao@gmail.com",
+      "name": "Alisson Gomes",
+      "email": "alissonfofinho@gmail.com",
       "id": 2
-    },
-    {
-      "name": "Ráyra",
-      "email": "rayra@gmail.com",
-      "id": 3
     }
   ]
 }
